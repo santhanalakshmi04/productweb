@@ -650,13 +650,14 @@ style.css
 ```
 
 ## Output:
-![output](./out1.png)
-![output](./out2.png)
-![output](./out3.png)
+![out1](https://user-images.githubusercontent.com/119475762/215318682-dc7356ca-fff9-44ac-bf39-1b32f26bebd7.png)
+![out2](https://user-images.githubusercontent.com/119475762/215318719-fc7d39e2-9251-43e3-b043-62398702b24d.png)
+![out3](https://user-images.githubusercontent.com/119475762/215318742-65691b29-3180-472a-90f1-b9c3ebd8dc76.png)
 
 
 ## HTML Validator
-![output](./valid.png)
+![valid](https://user-images.githubusercontent.com/119475762/215318756-37605a3d-4689-485f-8598-758b352468a1.png)
+
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
